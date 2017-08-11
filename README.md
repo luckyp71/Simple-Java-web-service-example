@@ -1,6 +1,6 @@
 # Simple-Java-web-service-example
 
-Tool and technologies used:
+Technologies used:
 1. Netbeans 8.1
 2. Java SDK 1.8
 3. GlassFish Server 4.1.1
